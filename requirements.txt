@@ -1,0 +1,9 @@
+requests
+pymongo
+dnspython
+Flask
+python-dotenv
+certifi
+bs4
+urllib3<2.0
+PyJWT
